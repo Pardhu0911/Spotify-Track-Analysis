@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you use this project, please cite the authors listed here.
+type: software
+title: 'Beyond Genre: Spotify Track Analysis'
+authors:
+- family-names: Edupalli
+  given-names: Pardha Saradhi
+  affiliation: University of Cincinnati
+  website: https://github.com/Pardhu0911
+- family-names: Akwei
+  given-names: Eric
+  affiliation: University of Cincinnati
+- family-names: Undi
+  given-names: Lakshmi Aishwarya
+  affiliation: University of Cincinnati
+- family-names: Dame
+  given-names: George Owusu
+  affiliation: University of Cincinnati
+repository-code: https://github.com/Pardhu0911/spotify-track-analysis
+url: https://github.com/Pardhu0911/spotify-track-analysis
